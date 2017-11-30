@@ -25,7 +25,9 @@ body {
 }
 
 .img-flex {
+  display: block;
   width: 100%;
+  overflow: hidden;
 }
 
 .banner {
