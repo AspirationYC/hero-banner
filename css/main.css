@@ -18,6 +18,7 @@ body {
   margin-top: 0;
   margin-bottom: 1.5rem;
   font-weight: bold;
+  width: 100%;
 }
 
 .banner-content p {
@@ -43,5 +44,4 @@ body {
   top: 8px;
   left: 35px;
   transform: translate(0%);
-  width: 100%;
 }
